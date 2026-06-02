@@ -1,10 +1,10 @@
-# 👩🏻‍💻 Ana Karolina-Magalhaes
+# 👩🏻‍💻 Ana Karolina Magalhaes
 
 **Desenvolvedor FullStack**
 
-Olá👋! Meu nome é Alvaro Pires de Souza, tenho 16 anos e sou estudante do 3º ano do Ensino Médio Técnico em PC no Colégio Cotemig, com conclusão prevista para dezembro de 2026.
+Olá👋! Meu nome é Ana Karolina Magalhaes, tenho 17 anos e sou estudante do 3º ano do Ensino Médio Técnico em PC no Colégio Cotemig, com conclusão prevista para dezembro de 2026.
 
-Sou uma pessoa criativa, com excelentes habilidades de comunicação e muito boas habilidades de trabalho em equipe. Atualmente, estou aprimorando minhas habilidades em programação e desenvolvimento de software, com conhecimentos em HTML, CSS, JavaScript, C#, MySQL,PHP,Python,Pacote Office, e Figma.
+Sou uma pessoa criativa, com excelentes habilidades de comunicação e muito boas habilidades de trabalho em equipe. Atualmente, estou aprimorando minhas habilidades em programação e desenvolvimento de software, com conhecimentos em HTML, CSS, JavaScript, C#, MySQL,PHP,Python,Pacote Office,e Figma.
 
 Tenho grande interesse em seguir carreira como desenvolvedor Full-Stack, criando soluções digitais que unam praticidade, eficiência e inovação, sempre buscando aprender continuamente e colaborar em projetos que envolvam tecnologia e trabalho em equipe.
 
@@ -118,13 +118,13 @@ Tenho grande interesse em seguir carreira como desenvolvedor Full-Stack, criando
 ### 📫 Entre em contato
 
 <p>
-    <a href="mailto:ap4321316@gmail.com" target="_blank">
+    <a href="mailto:anakarolinamglhssilva@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&   labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
     </a>
-    <a href="https://www.linkedin.com/in/alvaro-pires-de-souza-786aa4338/" target="_blank">
+    <a href="https://www.linkedin.com/in/anakarolinamagalhaes" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
     </a>
-    <a href="https://github.com/Alvaro3105" target="_blank">
+    <a href="https://github.com/Anakmglhs" target="_blank">
         <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
     </a>
 </p>
