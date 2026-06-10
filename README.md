@@ -1,20 +1,18 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=150&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=30&animation=fadeIn&fontColor=ffffff" width="100%"/>
+</p>
+
 # 👩🏻‍💻 Ana Karolina Magalhaes
 
-**Desenvolvedor FullStack**
+**Desenvolvedora FullStack**
 
-Olá👋! Meu nome é Ana Karolina Magalhaes, tenho 17 anos e sou estudante do 3º ano do Ensino Médio Técnico em PC no Colégio Cotemig, com conclusão prevista para dezembro de 2026.
+Olá👋! Meu nome é Ana Karolina Magalhaes, tenho 17 anos e sou estudante do 3º ano do Ensino Médio Técnico em Informática no Colégio Cotemig, com conclusão prevista para dezembro de 2026.
 
-Sou uma pessoa criativa, com excelentes habilidades de comunicação e muito boas habilidades de trabalho em equipe. Atualmente, estou aprimorando minhas habilidades em programação e desenvolvimento de software, com conhecimentos em HTML, CSS, JavaScript, C#, MySQL,PHP,Python,Pacote Office,e Figma.
+Sou uma pessoa criativa, com excelentes habilidades de comunicação e muito boas habilidades de trabalho em equipe. Atualmente, estou aprimorando minhas habilidades em programação e desenvolvimento de software, com conhecimentos em HTML, CSS, JavaScript, C#, MySQL, PHP, Python, Pacote Office e Figma.
 
-Tenho grande interesse em seguir carreira como desenvolvedor Full-Stack, criando soluções digitais que unam praticidade, eficiência e inovação, sempre buscando aprender continuamente e colaborar em projetos que envolvam tecnologia e trabalho em equipe.
+Tenho grande interesse em seguir carreira como desenvolvedora Full-Stack, criando soluções digitais que unam praticidade, eficiência e inovação, sempre buscando aprender continuamente e colaborar em projetos que envolvam tecnologia e trabalho em equipe.
 
- ---
-
-
-
-
-
-
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -44,11 +42,35 @@ Tenho grande interesse em seguir carreira como desenvolvedor Full-Stack, criando
 />
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="C#" 
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -68,8 +90,8 @@ Tenho grande interesse em seguir carreira como desenvolvedor Full-Stack, criando
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="GitHub" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
@@ -88,27 +110,29 @@ Tenho grande interesse em seguir carreira como desenvolvedor Full-Stack, criando
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
     <img 
         align="left" 
         alt="GitHub Stats" 
         height="200" 
         style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=Alvaro3105&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        src="https://github-readme-stats.vercel.app/api?username=Anakmglhs&show_icons=true&theme=rose_pine&include_all_commits=true&locale=pt-br" 
     />
     <img 
         align="left" 
-        alt="GitHub Stats" 
+        alt="Top Langs" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro3105&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anakmglhs&theme=rose_pine&layout=compact&custom_title=Tecnologias&langs_count=5" 
     />
 </p>
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+> **Nota:** Certifique-se de configurar a sua "action" da cobrinha no seu repositório `Anakmglhs` para que a animação rosa abaixo funcione perfeitamente! ✨
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvaro3105/alvaro3105/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvaro3105/alvaro310/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alvaro3105/alvaro3105/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anakmglhs/Anakmglhs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anakmglhs/Anakmglhs/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anakmglhs/Anakmglhs/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/>
@@ -119,18 +143,18 @@ Tenho grande interesse em seguir carreira como desenvolvedor Full-Stack, criando
 
 <p>
     <a href="mailto:anakarolinamglhssilva@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&   labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff69b4&logoColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
     </a>
     <a href="https://www.linkedin.com/in/anakarolinamagalhaes" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff1493&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
     <a href="https://github.com/Anakmglhs" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
+        <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=c71585&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
     </a>
 </p>
 
 <br/>
 
 <p>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff1493&height=125&section=footer"/>
 </p>
