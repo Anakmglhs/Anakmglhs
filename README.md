@@ -127,8 +127,6 @@ Tenho grande interesse em seguir carreira como desenvolvedora Full-Stack, criand
 </p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-> **Nota:** Certifique-se de configurar a sua "action" da cobrinha no seu repositório `Anakmglhs` para que a animação rosa abaixo funcione perfeitamente! ✨
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anakmglhs/Anakmglhs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anakmglhs/Anakmglhs/output/github-contribution-grid-snake.svg">
@@ -137,7 +135,6 @@ Tenho grande interesse em seguir carreira como desenvolvedora Full-Stack, criand
 
 <br/>
 
----
 
 ### 📫 Entre em contato
 
