@@ -6,7 +6,7 @@
 
 **Desenvolvedora FullStack**
 
-Olá👋! Meu nome é Ana Karolina Magalhaes, tenho 17 anos e sou estudante do 3º ano do Ensino Médio Técnico em Informática no Colégio Cotemig, com conclusão prevista para dezembro de 2026.
+Olá👋! Meu nome é Ana Karolina Magalhaes, tenho 18 anos e sou estudante do 3º ano do Ensino Médio Técnico em Informática no Colégio Cotemig, com conclusão prevista para dezembro de 2026.
 
 Sou uma pessoa criativa, com excelentes habilidades de comunicação e muito boas habilidades de trabalho em equipe. Atualmente, estou aprimorando minhas habilidades em programação e desenvolvimento de software, com conhecimentos em HTML, CSS, JavaScript, C#, MySQL, PHP, Python, Pacote Office e Figma.
 
